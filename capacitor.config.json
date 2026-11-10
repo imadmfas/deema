@@ -1,0 +1,6 @@
+{
+  "appId": "com.dima.learningworld",
+  "appName": "مدينة ديمة",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}

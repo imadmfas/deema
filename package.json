@@ -1,0 +1,8 @@
+{
+  "name": "deema-learning-city",
+  "version": "2.0.0",
+  "private": true,
+  "description": "مدينة ديمة التعليمية — لعبة تعليمية مجانية للأطفال",
+  "scripts": { "serve": "python3 -m http.server 8000", "sync": "sh scripts/prepare-www.sh && npx cap sync" },
+  "dependencies": { "@capacitor/android": "^7.0.0", "@capacitor/cli": "^7.0.0", "@capacitor/core": "^7.0.0", "@capacitor/ios": "^7.0.0" }
+}
